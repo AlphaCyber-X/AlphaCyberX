@@ -36,7 +36,7 @@ print("\033[0;32;40m\n..........................................................
 print()
 print()
 
-x=int(input("\033[0;37;40m\nEnter Owner NumberWithout +94 :-"))
+x=int(input("\033[0;37;40m\nEnter Owner Number Without +94 :-"))
 
 import time
 from time import sleep
