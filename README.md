@@ -3,12 +3,12 @@
 
 ***
 
-> scan  QR Code ✏
+> අපගේ සමූහයට සම්බන්ද වීමට පෙර මෙම සමූයකට එක් වන්න ✏
 <div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
 ***
 # Deployment link not working?
