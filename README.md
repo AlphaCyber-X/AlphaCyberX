@@ -4,7 +4,7 @@
 ***
 
 > අපගේ සමූහයට සම්බන්ද වීමට පෙර මෙම සමූයකට එක් වන්න ✏
-<div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/Px5nDhs/whatsapp-PNG95183.png" width="150" ></a></div>
+<div align="left"><a href="https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT"><img src="https://i.ibb.co/Px5nDhs/whatsapp-PNG95183.png" width="150" ></a></div>
 
 <div aline='left'><h2> AlphaCyber-X TEAM </h2></div>
 
