@@ -11,47 +11,19 @@
 ***
 
 
-<table><tr><th>නාලක</th><th>තරුශ </th></tr><tr><td><img src="https://i.ibb.co/q0LwBDq/Screenshot-20220828-211248-RDWhats-App.jpg" width="180" alt="Sew Queen"></td><td><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/temp_user_profile1621662133773.jpeg" width="180" alt="tharu"></a></td></tr><tr><td>Owner</td><td>Co Owner </td></tr></table><table><tr><th>Muthu</th><th>Dilusha</th><th>Umeda</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/3e3b65c1117c61427e00843254eaf84c.jpg" width="180" alt="Muthu"></a></td><td><a href="http://github.com/dilushamandila"><img src="https://avatars.githubusercontent.com/u/90194808?v=4" width="180" alt="Dilusha"></a></td><td><a href="http://github.com/umedaewandee"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/IMG_20211117_150039.jpg" width="180" alt="Umeda"></a></td></tr><tr><td>Voice & Idea </td><td> Graphics & Group Management</td><td>Group Management & Idea</td></tr></table>
-
-
-***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
-
-***
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Commands)
-: All Commands
-
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Extrenal-Commands)
-: Official Extrenal Commands
-
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Add-Your-Own-Cmd-For-Sew-Queen-Whatsapp-Bot)
-: How To Add Your Own Command For Sew Queen 
-
-> [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/ALL-Words-(Voice-Reply))
-: All Words In Voice Reply
-
-***
-> Another Way To Get Qr ✏
-
-# You Can Get Qr Easily Using Another Sew Queen Bot
-# Get Qr As Image To Use .getqr
-
-> termux code for qr✏
-
 
 ```
-$ pkg upgrade && pkg update
-$ pkg install nodejs && pkg install git
-```
 
-```
-$ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
-$ cd qr
-$ npm i
-$ node sew.js
+$ pkg install python
 
-```
-```
-$ cd qr
-$ node sew.js
+$ pkg install git
+
+$ git clone https://github.com/AlphaCyber-X/AlphaCyberX.git
+
+$ cd AlphaCyberX
+
+$ chmod +x *
+
+$ python test3.py
+
 ```
