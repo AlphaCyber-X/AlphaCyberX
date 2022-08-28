@@ -8,7 +8,7 @@
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://chat.whatsapp.com/CDn9NiZkTkNKDvPrE777gT"><img src="https://i.ibb.co/Px5nDhs/whatsapp-PNG95183.png" width="150" ></a></div>
 
 ***
 # Deployment link not working?
